@@ -42,7 +42,7 @@ body {
 }
 .box::after,
 .box::before {
-    background: linear-gradient(235deg, #89ff00, #060c21,#00bcd4);
+    background: linear-gradient(235deg, #e73ca0, #060c21,#e9d94a);
 }
 .content {
     padding: 20px;
